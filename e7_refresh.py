@@ -4,7 +4,7 @@ import time
 from pynput import keyboard
 
 # resulution:1920x1080
-# windowed mode Pc client
+# windowed mode
 
 def get_screen_resolution():
     root = tk.Tk()
